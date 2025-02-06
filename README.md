@@ -13,15 +13,6 @@ This Python script automates the process of solving LeetCode problems through we
 - 🔹 **Automated code submission** with error handling  
 - 🔹 **Retry mechanism** for improving failed solutions  
 
-## 🛠️ Prerequisites
-
-Ensure you have the following installed:
-
-- Python 3.x  
-- Selenium WebDriver  
-- undetected_chromedriver  
-- anthropic Python library  
-- BeautifulSoup4  
 
 ## 📌 Demo 
 
