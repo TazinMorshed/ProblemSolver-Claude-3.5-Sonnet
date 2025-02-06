@@ -24,22 +24,3 @@ Ensure you have the following installed:
 - BeautifulSoup4  
 
 
-## Usage
-
-Run the script using Python:
-
-1. CD to wherever you have the file stored.
-2. Execute the script:
-   ```
-   python Solver.py
-   ```
-
-The script will automatically:
-- Log in to LeetCode
-- Navigate through problems
-- Select a problem
-- Generate a solution using Claude's 3.5 Sonnet API AI
-- Submit the solution
-- Handle any errors and retry if necessary
-- Move on to the next problem
-
