@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This Python script automates the process of solving LeetCode problems through web automation and the Claude AI API. It handles problem selection, generates solutions, and submits them automatically.
+Solves LeetCode problems through web automation and the Claude AI API. Handles problem selection, generate solutions, and submits them automatically. 
 
 ## 🚀 Key Features
 
