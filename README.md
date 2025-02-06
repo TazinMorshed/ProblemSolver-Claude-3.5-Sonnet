@@ -23,7 +23,7 @@ Ensure you have the following installed:
 - anthropic Python library  
 - BeautifulSoup4  
 
-## Demo 
+## 📌 Demo 
 
 [Watch the demo video](https://drive.google.com/file/d/15me0s7zrk7RfXXZiAl_nMOOTE5kurnj6/view?usp=sharing)
 
